@@ -21,18 +21,22 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # IP CONNECTIVITY TABLE
+<img width="1140" height="237" alt="image" src="https://github.com/user-attachments/assets/5ee55dc9-14c7-4258-851b-1a9ab252c4c9" />
+
 
 
 
 # NETWORK DIAGRAM
+<img width="1118" height="395" alt="image" src="https://github.com/user-attachments/assets/9b8bc7b0-e5a3-41ab-93e6-4fe0e4c6bdd5" />
 
 
 
 
 # OUTPUT
+![WhatsApp Image 2025-11-23 at 20 04 23_ff3322a3](https://github.com/user-attachments/assets/ea14f71d-ac64-4c4b-b876-8099d11205a8)
+
 
 
 # RESULT
-
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
 
